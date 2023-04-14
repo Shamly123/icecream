@@ -1,0 +1,195 @@
+img.slide
+{
+    height: 500px;
+    margin: auto;
+}
+#subscribe{
+    font-size: 13px;
+    color: rgb(78, 103, 117);
+}
+#divnav{
+    width: 1200px;
+}
+.logo{
+    width: 150px;
+    height: 50px;
+}
+#navul{
+    font-size: 13px;
+}
+#search{
+   width: 370px;
+   height: 40px;
+   font-size: 13px;
+}
+#centerdiv{
+    width: 800px;
+    margin: 0%auto;
+}
+.col-3{
+    background-color: #fff;
+   
+}
+#col03{
+    background-color: rgb(151, 196, 182);
+}
+.col-2{
+    background-color: rgb(151, 196, 182);
+}
+.col-1{
+    background-color: rgb(151, 196, 182);
+}
+.col-1 a:link{
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(44, 43, 43);
+}
+.col-3 a:link{
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(44, 43, 43);
+}
+.col-2 a:link{
+    
+    text-decoration: none;
+    text-align: center;
+    font-size: 14px;
+    color: rgb(44, 43, 43);
+}
+.col-2 a:hover{
+    
+    background-color: rgb(139, 240, 208);
+}
+.col-1 a:hover{
+    
+    background-color: rgb(87, 194, 160);
+}
+.col-3 a:hover{
+    
+    background-color: rgb(87, 194, 160);
+}
+.head1{
+    text-align: center;
+}
+.head2{
+    text-align: center;
+    font-size: 25px;
+    color: rgb(95, 94, 94);
+}
+.head3{
+    text-align: center;
+    font-size: 15px;
+    color: rgb(146, 144, 144);
+}
+.head3 a:link{
+    color: black;
+    text-decoration: none;
+}
+.leftdiv{
+    width: 800px;
+    margin-left: 230px;
+}
+#divimg img{
+    width: 290px;
+}
+#picname{
+    font-size: 12px;
+}
+#contentdiv{
+    width: 550px;
+    margin-left: 100px;
+}
+#plink1 a:link{
+    text-decoration: rgb(0, 183, 255);
+    text-decoration-line: underline;
+    font-size: 14px;
+}
+#divimg2 img{
+    width: 170px;
+}
+.divimg2p a:link{
+    text-decoration: none;
+}
+.divimg2p a:hover{
+    background-color: aqua;
+}
+#p01{
+    font-size: 11px;
+}
+#p01 a:link{
+    font-size: 16px;
+}
+#watchnow{
+    font-size: 20px;
+}
+#small{
+    font-size: 12px;
+    text-decoration: none;
+}
+#dscrp1{
+    font-size: 20px;
+    text-decoration: none;
+}
+#dscrp1:hover{
+    text-decoration: underline;
+}
+#pictureboxes{
+    background-color: white;
+}
+.pizza{
+    width: 450px;
+}
+#col-1s{
+    text-decoration: none;
+    font-size: 11px;
+    text-align: center;
+}
+#col1{
+    background-color: rgb(247, 183, 183);
+}
+#col2{
+    background-color: rgb(252, 224, 192);
+}
+#col3{
+    background-color: rgb(192, 221, 248);
+}
+#col4{
+    background-color: rgb(226, 185, 250);
+}
+#col5{
+    background-color: rgb(207, 184, 245);
+}
+#col6{
+    background-color: rgb(248, 195, 239);
+}
+#col7{
+    background-color: rgb(229, 190, 247);
+}
+.email{
+    width: 250px;
+    height: 33px;
+}
+#list{
+    font-size: 15px;
+}
+ul{
+    list-style-type: none;
+}
+#atag{
+    text-decoration: none;
+}
+.footer{
+    font-size: 14px;
+}
+#lens{
+    margin-top: 3px;
+    margin-left: 82%;
+    z-index: 9;
+}
+#signup{
+    font-size: 12px;
+}
